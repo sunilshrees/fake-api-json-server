@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "049bdff9-a600-44b3-abd3-975b7df5b1cd",
+      "name": "NJW",
+      "email": "9779843088216"
+    },
+    {
+      "id": "9aff2e49-5642-4631-8200-8dfa4b6dd548",
+      "name": "Shrees",
+      "email": "ss@gmail.com"
+    },
+    {
+      "id": "0be6b380-d91f-487a-8990-3d77b31d1a1d",
+      "name": "jan",
+      "email": "fan@gmail.com"
+    }
+  ]
+}
